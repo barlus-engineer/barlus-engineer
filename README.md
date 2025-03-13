@@ -1,6 +1,6 @@
 # Barlus Engineer:
 
-Hello, my name is Barlus. I've had a passion for technology since I was young, and I aspire to create works that can make a difference in the world. Whether it's developing AI that solves problems or creating modern software to meet the demands of the digital age, I aim to contribute to innovations that truly impact people's lives.
+Hello, my name is Barlathcuda (Barlus). I've had a passion for technology since I was young, and I aspire to create works that can make a difference in the world. Whether it's developing AI that solves problems or creating modern software to meet the demands of the digital age, I aim to contribute to innovations that truly impact people's lives.
 
 My dream is to apply the knowledge I've gained to develop products that are not only cutting-edge but also genuinely beneficial to society. I believe technology can drive positive change, and I am committed to being part of that journey, helping shape the future in meaningful ways.
 
