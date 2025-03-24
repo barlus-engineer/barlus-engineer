@@ -1,4 +1,4 @@
-# Barlus Engineer:
+# Barlathcuda Lorfaichong (Barlus):
 
 Hello, my name is Barlathcuda (Barlus). I've had a passion for technology since I was young, and I aspire to create works that can make a difference in the world. Whether it's developing AI that solves problems or creating modern software to meet the demands of the digital age, I aim to contribute to innovations that truly impact people's lives.
 
