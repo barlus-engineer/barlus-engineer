@@ -4,8 +4,6 @@ Hello, my name is Barlathcuda (Barlus). I've had a passion for technology since 
 
 My dream is to apply the knowledge I've gained to develop products that are not only cutting-edge but also genuinely beneficial to society. I believe technology can drive positive change, and I am committed to being part of that journey, helping shape the future in meaningful ways.
 
----
-
 ## Programming Languages I Love
 
 The programming languages I enjoy using the most are:
@@ -17,8 +15,6 @@ The programming languages I enjoy using the most are:
 - **CSS**
 - **Python**
 - **C++**
-
----
 
 ## Personal Information
 
